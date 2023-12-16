@@ -1,10 +1,10 @@
-# Data Scientist, aspiring ML Engineer
+# Data Scientist, Aspiring ML Engineer
 
 #### Programming Languages: C++, Java, Python
-#### Technologies: TensorFlow, Anaconda Suite, OpenCV, ML, MySQL, Matlab, AWS.
+#### Technologies: TensorFlow, Anaconda, OpenCV, ML, MySQL.
 
 ## Education
-- B.E., Electronics and Telecommunications | Pune Institute of Computer Technology (_2020-2024_)
+B.E., Electronics and Telecommunications | Pune Institute of Computer Technology (_2020-2024_)
 
 ## Work Experience
 **Research Intern @ Pune Institute of Computer Technology (_02/2023 - 05/2023_)**
