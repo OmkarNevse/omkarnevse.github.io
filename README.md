@@ -15,8 +15,7 @@ B.E., Electronics and Telecommunications | Pune Institute of Computer Technology
 
 ## Publications
 
-**A Survey on AI-Driven File System Performance Optimisation**
-American Institute of Physics*
+### A Survey on AI-Driven File System Performance Optimisation 
 - Researched and published a detailed summary of the techniques used in AI-assisted cache systems for distributed and server-centric file systems.
 - Due to the Nature of this problem statement, the current published research on the topic is scarce. This survey aims to consolidate all available studies to assist future research.
 
