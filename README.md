@@ -11,7 +11,7 @@ B.E., Electronics and Telecommunications | Pune Institute of Computer Technology
 (Tensorflow, Neural Networks, Keras, Scikit-Learn, python, pyDICOM)
 ### Pulmonary Nodule Detection for Lung Cancer
 - Developed a model capable of processing CT Scans to detect Pulmonary Lung nodules, which may develop cancer.
-- Trained the model on the CT Scans of around 1,500 Patients and got ~90% accuracy in detecting Pulmonary Lung Nodules.
+- Trained the model on the CT Scans of around 1,500 Patients and achieved ~90% accuracy in detecting Pulmonary Lung Nodules.
 
 ## Publications
 
