@@ -7,16 +7,16 @@
 B.E., Electronics and Telecommunications | Pune Institute of Computer Technology (_2020-2024_)
 
 ## Work Experience
-**Research Intern @ Pune Institute of Computer Technology (_02/2023 - 05/2023_)**
-(Tensorflow, Neural Networks, Keras, Scikit-Learn, python, pyDICOM)
-### Pulmonary Nodule Detection for Lung Cancer
+### Research Intern @ PICT (_02/2023 - 05/2023_) 
+### Pulmonary Nodule Detection for Lung Cancer 
+- Technologies used - Tensorflow, Neural Networks, Keras, Scikit-Learn, python, pyDICOM
 - Developed a model capable of processing CT Scans to detect Pulmonary Lung nodules, which may develop cancer.
 - Trained the model on the CT Scans of around 1,500 Patients and achieved ~90% accuracy in detecting Pulmonary Lung Nodules.
 
 ## Publications
 
 **A Survey on AI-Driven File System Performance Optimisation**
-*American Institute of Physics*
+American Institute of Physics*
 - Researched and published a detailed summary of the techniques used in AI-assisted cache systems for distributed and server-centric file systems.
 - Due to the Nature of this problem statement, the current published research on the topic is scarce. This survey aims to consolidate all available studies to assist future research.
 
